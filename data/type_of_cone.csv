@@ -1,0 +1,7 @@
+id,cone,quantity,gluten_free,cost_per_box,price_per_cone
+1,Waffle, 10, false,30.00,3.00
+2,Waffle, 5, true,40.00, 4.00
+3,Sugar, 15, false,25.00, 2.50
+4,Sugar, 10, true,30.00, 3.00
+5,Cake, 15, false, 20.00, 2.00
+6,Cake, 5, true, 25.00, 2.50

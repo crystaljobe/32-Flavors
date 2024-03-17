@@ -1,0 +1,9 @@
+id,flavor,quantity,dairy_free,cost_per_bucket,price_per_scoop
+1,Vanilla,10,false,15.00,1.50
+2,Chocolate,10,false,15.00,1.50
+3,Strawberry,7,false,17.50,1.75
+4,Black Cherry,6,false,20.00,2.00
+5,Pistachio,4,false,20.00,2.00
+6,Mint Chocolate Chip,6,false,17.50,1.75
+7,Orange Sorbet,5,true,22.50,2.25
+8,Raspberry Cheescake,4,false,25.00,2.50
